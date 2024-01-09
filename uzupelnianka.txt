@@ -8,7 +8,7 @@ Każda zmienna musi mieć określony typ, np. int, albo String.
 
 Jeżeli deklarację zmiennej poprzedzimy słowem final, to w dalszej części kodu nie możemy zmieniać tej zmiennej.
 
-Konstruktory są wywoływane przez operator () i służą do tworzenia nowych obiektów.
+Konstruktory są wywoływane przez operator new i służą do tworzenia nowych obiektów.
 
 Jeśli w klasie zdefiniowano chociaż jeden konstruktor to kompilator nie wygeneruje dla nas konstrukora domyślnego.
 
